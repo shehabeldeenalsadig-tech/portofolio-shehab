@@ -1,0 +1,194 @@
+<!DOCTYPE html>
+<!-- saved from url=(0045)https://my-website-dusky-eight-23.vercel.app/ -->
+<html lang="en"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+        
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link rel="stylesheet" href="./hudhod_files/style.css">
+        <title>Hudhod</title>
+    </head>
+    <body>
+        <!-- strat nuv bar -->
+        <header>
+            <div class="contener">
+                <img src="./hudhod_files/My-Logo.jpeg" alt="my-logo">
+                <nav id="themenu" style="display: block;">
+                    <ul class="theulmenu">
+                        <li><a href="https://my-website-dusky-eight-23.vercel.app/#aboutme">About Me</a></li>
+                        <li><a href="https://my-website-dusky-eight-23.vercel.app/#Services">Services</a></li>
+                        <li><a href="https://my-website-dusky-eight-23.vercel.app/#myworks">My Works</a></li>
+                        <li><a href="https://my-website-dusky-eight-23.vercel.app/#contactme">Contact Me</a></li>
+                    </ul>
+                </nav>
+                <img src="./hudhod_files/menu-4-16.ico" alt="Menu Icon" class="menuicon" id="thebutton">
+            </div>
+        </header>
+        <!-- end nuv bar -->
+        <hr>
+        <!-- strat hero -->
+         <section class="hero">
+            <img class="arrow" src="./hudhod_files/arrow.svg" alt="arrow">
+            <div class="contener">
+                <h1 class="name">I'm Alhadi MOhammed</h1>
+                <h1 class="title">Front-End Developer specialized in building responsive websites</h1>
+                <div class="herobottn">
+                    <a href="https://my-website-dusky-eight-23.vercel.app/#contactme" class="hireme">Hire Me</a>
+                    <a href="https://my-website-dusky-eight-23.vercel.app/image/Alhadi_Mohammed_CV.pdf" class="cv" download="">
+                        Download CV
+                        <img src="./hudhod_files/download.svg" alt="Download Button">
+                    </a>
+                </div>
+            </div>
+            <img src="./hudhod_files/Hero.svg" alt="hero Imge" class="heroimag">
+         </section>
+        <!-- end hero -->
+        <!-- start about me  -->
+        <section class="aboutme" id="aboutme">
+            <img src="./hudhod_files/AboutMe.svg" alt="About Me" class="aboutmeimag">
+            <div class="textcontainer">
+                <div class="texttitle">
+                    <h1 class="aboutname">About</h1>
+                    <h1 class="abouttitle">me</h1>
+                    <img src="./hudhod_files/lightbulb.svg" alt="Light" class="light">
+                </div>
+                <p class="aboutmepar">
+                    Hello! I'm Alhadi Mohammed, a passionate Front-End Developer who enjoys building clean 
+                    and responsive websites.I love turning ideas into real websites using modern web technologies.
+                    I work with HTML, CSS, and JavaScript to create user-friendly interfaces and smooth user experiences.
+                    I'm always learning new skills and improving my knowledge in web development.
+                    My goal is to build fast, accessible, and beautiful websites that help people and businesses grow.
+                    Feel free to explore my work and contact me if you'd like to collaborate.
+                </p>
+
+                <hr>
+                
+                <h3>Skils</h3>
+                <p>- HTML 5</p>
+                <p>- CSS 3</p>
+                <p>- JavaScript</p>
+                <p>- Responsive Design</p>
+                <p>- Git / GitHub</p>
+                <!-- <p>- Tailwind CSS</p> -->
+            </div>
+        </section>
+        <!-- end about me  -->
+        <!-- start Services -->
+        <section class="Services" id="Services">
+            <div class="container">
+                <div class="Servicesdiv">
+                    <h2 class="Servicestitle">Services</h2>
+                    <p class="servicesp">What I Can Do For You</p>
+                </div>
+                <div class="Servicescard">
+                    <div class="landingcard">
+                        <div class="imgcard">
+                            <img src="./hudhod_files/landing-page-development.png" alt="Landing page">
+                            <h2 class="lastafter">Landing Page Development</h2>
+                        </div>
+                        <p>Custom.high-converting Landing pages to boost your business</p>
+                    </div>
+                    <div class="landingcard">
+                        <div class="imgcard">
+                            <img src="./hudhod_files/portfolio-websit.png" alt="Portfolio Websites">
+                            <h2>Portfolio Websites</h2>
+                        </div>
+                        <p>Personal portfolio websites to showcase your work and skills</p>
+                    </div>
+                    <div class="landingcard">
+                        <div class="imgcard">
+                            <img src="./hudhod_files/business-website.png" alt="Business Websites">
+                            <h2>Business Websites</h2>
+                        </div>
+                        <p>Professiona websites for companies and startups</p>
+                    </div>
+                    <div class="landingcard">
+                        <div class="imgcard">
+                            <img src="./hudhod_files/fixing-websit.png" alt="Website Fixing">
+                            <h2 class="lastafter">Website Fixing &amp;&amp; Optimization</h2>
+                        </div>
+                        <p>Speed optimization and bug fixing for existin websites</p>
+                    </div>
+                </div> 
+            </div>
+        </section>
+        <!-- end Services -->
+        <!-- start my works -->
+        <section class="works" id="myworks">
+            <div class="workscontaner">
+                <div class="projecttitle">
+                    <h1 class="aboutname">My Recent</h1>
+                    <h1 class="abouttitle">Works</h1>
+                </div>
+            </div>
+            <ul>
+                <li>
+                    <h3>My wibsit</h3>
+                    <a href="https://my-website-dusky-eight-23.vercel.app/#">
+                        <img src="./hudhod_files/my-wibsit-img.png" alt="My Wibsit">
+                    </a>
+                    <p>this is my websit</p>
+                </li>
+               <li>
+                <h3>My Blog</h3>
+                    <a href="https://my-blog-mu-liart.vercel.app/" target="_blank">
+                        <img src="./hudhod_files/my-blog-img.png" alt="Me Blog Wep">
+                    </a>
+                    <p>this is my blog</p>
+                </li>
+                <li>
+                    <h3>Kaspert</h3>
+                    <a href="https://kaspert.vercel.app/" target="_blank">
+                        <img src="./hudhod_files/kaspert-img.png" alt="Kaspert Web">
+                    </a>
+                    <p>this is Kaspert web</p>
+                </li>
+                <li>
+                    <h3>Elzero</h3>
+                    <a href="https://elzero-henna.vercel.app/" target="_blank">
+                        <img src="./hudhod_files/elzero-img.png" alt="Elzero Web">
+                    </a>
+                    <p>this is Elzero web</p>
+                </li>
+            </ul>
+        </section>
+        <!-- end my works -->
+        <!-- start contact me  -->
+        <section class="contactmecontaner" id="contactme">
+            <div class="contactmetitle">
+                <h1 class="aboutname">Contact</h1>
+                <h1 class="abouttitle">me</h1>
+            </div>
+            <div class="contact">
+                <div class="emailandphone">
+                    <img src="./hudhod_files/Email.svg" alt="Email Logo">
+                    <a href="mailto:alhadiharrn@gmail.com">
+                        <h3>alhadiharrn@gmail.com</h3>
+                    </a>
+                </div>
+                <div class="emailandphone">
+                    <img src="./hudhod_files/phone.svg" alt="Phone Logo">
+                    <h3>+256767898202</h3>
+                </div>
+            </div>
+            <div class="socialmedia">
+                <a href="https://my-website-dusky-eight-23.vercel.app/#" target="_blank">
+                    <img src="./hudhod_files/linkedin.svg" alt="Linkedin">
+                </a>
+                <a href="https://github.com/alhadimohammed" target="_blank">
+                    <img src="./hudhod_files/github.svg" alt="GitHub">
+                </a>
+                <a href="https://x.com/Alhadi_Hudhod" target="_blank">
+                    <img src="./hudhod_files/twitter.svg" alt="Twitter">
+                </a>
+                <a href="https://wa.me/256767898202?text=Hello%20I%20saw%20your%20website" target="_blank">
+                    <img src="./hudhod_files/whatsapp-white-icon.svg" alt="Whatsapp">
+                </a>
+            </div>
+        </section>
+        <!-- end contact me  -->
+        <hr>
+        <footer>
+            <p>Built By Hudhod</p>
+        </footer>
+        <script src="./hudhod_files/index.js.download"></script>
+    
+</body></html>
